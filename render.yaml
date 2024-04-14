@@ -1,8 +1,8 @@
-# render.yaml
+# # render.yaml
 
-buildCommand:
-  - python -m venv venv
-  - source venv/bin/activate
-  - pip install -r requirements.txt
+# buildCommand:
+#   - python -m venv venv
+#   - source venv/bin/activate
+#   - pip install -r requirements.txt
 
-pythonVersion: 3.7
+# pythonVersion: 3.7

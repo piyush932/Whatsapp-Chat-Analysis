@@ -1,8 +1,7 @@
-python==3.7.9
 streamlit
 preprocessor
 helper
-matplotlib.pyplot
+matplotlib
 seaborn
 urlextract
 wordcloud
