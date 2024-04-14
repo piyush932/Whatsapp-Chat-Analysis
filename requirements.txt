@@ -7,4 +7,3 @@ urlextract
 wordcloud
 emoji
 pandas
-re 
