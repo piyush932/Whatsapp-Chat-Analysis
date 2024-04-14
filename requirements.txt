@@ -1,7 +1,7 @@
 streamlit
 preprocessor
 helper
-matplotlib.pyplot
+matplotlib
 seaborn
 urlextract
 wordcloud
